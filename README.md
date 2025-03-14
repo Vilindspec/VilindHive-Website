@@ -15,6 +15,6 @@ VilindHive is a creative web design agency focused on building modern, responsiv
 Check out the live version [here](https://github.com/Vilindspec/VilindHive-Website).
 
 # Contact  
-Need help or want to collaborate? Reach out at [mailto:vilindhive@gmail.com].
+Reach out at [vilindhive@gmail.com](mailto:vilindhive@gmail.com)
 
 
