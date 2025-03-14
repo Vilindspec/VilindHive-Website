@@ -103,7 +103,7 @@
     
        
         .hero {
-            background-image: url(images/laptop.avif);
+            background-image: url(laptop.avif);
             background-size: cover;
             height: 600px;
             width: 100%;
@@ -142,7 +142,7 @@
     
     /* About Image Styling */
     #about{
-        background-image: url(images/about1.avif);
+        background-image: url(about1.avif);
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
